@@ -1,6 +1,6 @@
 {
   "name": "cra-template-react-redux-saga",
-  "version": "0.2.30",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Jean Crus <jean.crus@outlook.com>",
   "engines": {
@@ -27,10 +27,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexandr-g/cra-template-typescript-redux",
+    "url": "https://github.com/jeancrus/template-react-redux-saga",
     "directory": "/"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/jeancrus/template-react-redux-saga/issues"
   }
 }
